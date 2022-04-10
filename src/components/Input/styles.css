@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.input {
+  width: 400px;
+  color: black;
+  padding: 10px;
+}
+
+.dangerInput {
+  width: 400px;
+  color: red;
+  padding: 10px;
+}
+
+.error {
+  display: flex;
+  padding: "5px 0";
+  color: red;
+}

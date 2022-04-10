@@ -1,0 +1,23 @@
+.buttonGrp {
+  display: flex;
+  justify-content: space-around;
+}
+.backBtn {
+  padding: 6px;
+  background-color: rgb(206, 111, 111);
+  color: white;
+  font-size: 20px;
+  border: none;
+  width: 150px;
+  cursor: pointer;
+}
+
+.nextBtn {
+  padding: 6px;
+  background-color: rgb(114, 194, 117);
+  color: white;
+  font-size: 20px;
+  border: none;
+  width: 150px;
+  cursor: pointer;
+}
